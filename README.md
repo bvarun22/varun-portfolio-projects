@@ -8,7 +8,7 @@ SEE THE FULL DASHBOARD HERE - [App power bi link](https://app.powerbi.com/view?r
 
 Excel projects and portfolio.
 
-SEE THE FULL DASHBOARD HERE - [Excel file link](https://1drv.ms/x/s!AtXFI5nL1G-qgme9Zy7OCveSmAKf?e=Ar3whQ)
+SEE THE FULL DASHBOARD HERE - [Excel file link](https://1drv.ms/x/s!AtXFI5nL1G-qgme9Zy7OCveSmAKf?e=aY3PAq)
 
 ![Bank_loan_report](Bank_loan_report.png)
 
