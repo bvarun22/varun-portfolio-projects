@@ -10,6 +10,6 @@ Excel projects and portfolio.
 
 SEE THE FULL DASHBOARD HERE - [Excel file link]
 
-
+![Bank_loan_report](Bank_loan_report.png)
 
 
